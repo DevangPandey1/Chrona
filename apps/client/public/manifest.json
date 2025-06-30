@@ -1,0 +1,27 @@
+{
+  "name": "Chrona - Daily Life Management",
+  "short_name": "Chrona",
+  "description": "Your personal daily life management app. Organize your thoughts, track your experiences, and stay productive with notes, journal entries, and calendar integration.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["productivity", "lifestyle", "utilities"],
+  "lang": "en",
+  "dir": "ltr"
+} 
